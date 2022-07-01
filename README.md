@@ -4,7 +4,7 @@
 
 # Instructions
 
-Add `&theme=rose_pine` to the URL
+Add `&theme=sequoia-moonlight` or `&theme=sequoia-monochrome` to the URL
 
 ## Moonlight
 
