@@ -1,28 +1,19 @@
 ![Sequoia Theme Header](https://raw.githubusercontent.com/Sequoia-Theme/assets/main/githubHeader.png)
 
-# Sequoia for APP
-Sequoia theme adapted to APP
-
+# Sequoia for GitHub READ.me stats.
 
 # Instructions
 
-- Prefferences/Themes/Paste the codes.
+Add `&theme=rose_pine` to the URL
 
+## Moonlight
 
-# Available themes:
+https://github-readme-stats.vercel.app/api?username=thatonecalculator&theme=sequoia-moonlight:
+![](https://github-readme-stats.vercel.app/api?username=michael-andreuzza&sequoia-moonlight)
 
-Moonlight:
-- #0F1014,#0B161E,#121216,#868690,#1F1F24,#868690,#F0BA92,#FFBB88,#0F1014,#868690
-
-Monochrome:
-- #0F1014,#0B161E,#121216,#868690,#1F1F24,#868690,#FFFFFF,#B6BAC8,#0F1014,#868690
-
-
-
-## Screenshots
-
-### Moonlight
-![Moonlight](https://github.com/Sequoia-Theme/slack-channel/blob/main/slackMoonlight.png?raw=true)
+## Monochrome
+https://github-readme-stats.vercel.app/api?username=thatonecalculator&theme=sequoia-monochrome:
+![](https://github-readme-stats.vercel.app/api?username=michael-andreuzza&sequoia-monochrome)
 
 
 #
